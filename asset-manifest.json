@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-pring/static/css/main.2a07847b.chunk.css",
+    "main.js": "/React-pring/static/js/main.a36f3330.chunk.js",
+    "main.js.map": "/React-pring/static/js/main.a36f3330.chunk.js.map",
+    "runtime-main.js": "/React-pring/static/js/runtime-main.e4c17fb3.js",
+    "runtime-main.js.map": "/React-pring/static/js/runtime-main.e4c17fb3.js.map",
+    "static/js/2.d1e2d7a7.chunk.js": "/React-pring/static/js/2.d1e2d7a7.chunk.js",
+    "static/js/2.d1e2d7a7.chunk.js.map": "/React-pring/static/js/2.d1e2d7a7.chunk.js.map",
+    "index.html": "/React-pring/index.html",
+    "precache-manifest.f9a97a50877d6aa400196f2620f0fb52.js": "/React-pring/precache-manifest.f9a97a50877d6aa400196f2620f0fb52.js",
+    "service-worker.js": "/React-pring/service-worker.js",
+    "static/css/main.2a07847b.chunk.css.map": "/React-pring/static/css/main.2a07847b.chunk.css.map",
+    "static/js/2.d1e2d7a7.chunk.js.LICENSE.txt": "/React-pring/static/js/2.d1e2d7a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4c17fb3.js",
+    "static/js/2.d1e2d7a7.chunk.js",
+    "static/css/main.2a07847b.chunk.css",
+    "static/js/main.a36f3330.chunk.js"
+  ]
+}
